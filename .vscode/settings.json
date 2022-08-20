@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 20,
+    "editor.fontSize": 17,
     "debug.console.fontSize": 15,
     "editor.wordWrap":"on",
     "prettier.singleQuote": true,
