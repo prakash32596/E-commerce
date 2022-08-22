@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "E-Commerce App API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "@prakash32596",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
